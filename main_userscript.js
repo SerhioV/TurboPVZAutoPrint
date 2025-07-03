@@ -2,7 +2,7 @@
 // @name         ТурбоПВЗ: Автопечать номера ячейки
 // @author       SerhioVah
 // @namespace    OZON_TurboPVZ
-// @version      1.0.0307
+// @version      1.0.0307 (TestUpdate)
 // @description  Автопечать номер ячейки при приемке в ТурбоПВЗ:Ozon
 // @match        https://turbo-pvz.ozon.ru/receiving/receive*
 // @grant        none
