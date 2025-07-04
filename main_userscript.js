@@ -6,6 +6,9 @@
 // @description  Авто-печать номер ячейки при приемке в ТурбоПВЗ (ozon)
 // @match        https://turbo-pvz.ozon.ru/*
 // @grant        none
+// @icon         https://www.cataloged.ru/picos/logo/logo/ozon.png
+// @updateURL    https://raw.githubusercontent.com/SerhioV/TurboPVZAutoPrint/refs/heads/main/main_userscript.js
+// @downloadURL  https://raw.githubusercontent.com/SerhioV/TurboPVZAutoPrint/refs/heads/main/main_userscript.js
 // ==/UserScript==
 
 (function() {
