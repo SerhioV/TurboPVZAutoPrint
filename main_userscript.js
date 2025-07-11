@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name         OZON: Авто-печать номера ячейки
+// @name         ТурбоПВЗ FE: Авто-печать
 // @author SerhioVah
 // @namespace    http://tampermonkey.net/
 // @version      1.1.0407
 // @description  Авто-печать номер ячейки при приемке в ТурбоПВЗ (ozon)
 // @match        https://turbo-pvz.ozon.ru/*
 // @grant        none
-// @icon         https://www.cataloged.ru/picos/logo/logo/ozon.png
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=ozon.ru
 // @updateURL    https://raw.githubusercontent.com/SerhioV/TurboPVZAutoPrint/refs/heads/main/main_userscript.js
 // @downloadURL  https://raw.githubusercontent.com/SerhioV/TurboPVZAutoPrint/refs/heads/main/main_userscript.js
 // ==/UserScript==
